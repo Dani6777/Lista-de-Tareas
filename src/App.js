@@ -7,8 +7,6 @@ function App() {
       <div className="container flex flex-col max-w-xl">
         <Title/>
         <Input/>
-        
-
       </div>
 
     </div>
