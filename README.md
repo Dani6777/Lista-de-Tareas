@@ -38,6 +38,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
-- Correo electrónico: [tuemail@example.com](mailto:daniel.morales23@outlook.cl)
+- Correo electrónico: [daniel.morales23@outlook.cl](mailto:daniel.morales23@outlook.cl)
 
 ¡Gracias por revisar mi To-Do List App! Espero que encuentres útil este proyecto. ¡Diviértete organizando tus tareas!
